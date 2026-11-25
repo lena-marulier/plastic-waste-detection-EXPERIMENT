@@ -1,0 +1,13 @@
+path: C:/Users/lenam/Documents/GitHub/plastic-waste-detection/data/raw/ucwd/UCWD.yolo
+train: train/images
+val: valid/images
+test: test/images
+nc: 7
+names:
+- Glass
+- Metal
+- Packet
+- Plastic bag
+- Plastic bottle
+- Plastic container
+- Plastic fragment

@@ -221,3 +221,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Virtual environment
+.venv/
+
+# Datasets
+data/raw/
+data/processed/
+
+# Model weights
+*.pt
+
+# Training outputs
+runs/
+
+# Test image
+bus.jpg
+
+# Archives
+*.zip
